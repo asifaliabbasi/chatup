@@ -41,46 +41,46 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'your-web-api-key',
-    appId: 'your-web-app-id',
-    messagingSenderId: 'your-sender-id',
-    projectId: 'your-project-id',
-    authDomain: 'your-project-id.firebaseapp.com',
-    storageBucket: 'your-project-id.appspot.com',
+    apiKey: 'AIzaSyDx89cLrhRFCdQQNCvSoeSdr47e17G8U34',
+    appId: '1:522675172773:web:your-web-app-id',
+    messagingSenderId: '522675172773',
+    projectId: 'chatup-1ec88',
+    authDomain: 'chatup-1ec88.firebaseapp.com',
+    storageBucket: 'chatup-1ec88.firebasestorage.app',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'your-android-api-key',
-    appId: 'your-android-app-id',
-    messagingSenderId: 'your-sender-id',
-    projectId: 'your-project-id',
-    storageBucket: 'your-project-id.appspot.com',
+    apiKey: 'AIzaSyDx89cLrhRFCdQQNCvSoeSdr47e17G8U34',
+    appId: '1:522675172773:android:a078bcb161cdcea3dda44c',
+    messagingSenderId: '522675172773',
+    projectId: 'chatup-1ec88',
+    storageBucket: 'chatup-1ec88.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'your-ios-api-key',
-    appId: 'your-ios-app-id',
-    messagingSenderId: 'your-sender-id',
-    projectId: 'your-project-id',
-    storageBucket: 'your-project-id.appspot.com',
+    apiKey: 'AIzaSyDx89cLrhRFCdQQNCvSoeSdr47e17G8U34',
+    appId: '1:522675172773:ios:your-ios-app-id',
+    messagingSenderId: '522675172773',
+    projectId: 'chatup-1ec88',
+    storageBucket: 'chatup-1ec88.firebasestorage.app',
     iosBundleId: 'com.example.chatup',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'your-macos-api-key',
-    appId: 'your-macos-app-id',
-    messagingSenderId: 'your-sender-id',
-    projectId: 'your-project-id',
-    storageBucket: 'your-project-id.appspot.com',
+    apiKey: 'AIzaSyDx89cLrhRFCdQQNCvSoeSdr47e17G8U34',
+    appId: '1:522675172773:macos:your-macos-app-id',
+    messagingSenderId: '522675172773',
+    projectId: 'chatup-1ec88',
+    storageBucket: 'chatup-1ec88.firebasestorage.app',
     iosBundleId: 'com.example.chatup',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'your-windows-api-key',
-    appId: 'your-windows-app-id',
-    messagingSenderId: 'your-sender-id',
-    projectId: 'your-project-id',
-    authDomain: 'your-project-id.firebaseapp.com',
-    storageBucket: 'your-project-id.appspot.com',
+    apiKey: 'AIzaSyDx89cLrhRFCdQQNCvSoeSdr47e17G8U34',
+    appId: '1:522675172773:windows:your-windows-app-id',
+    messagingSenderId: '522675172773',
+    projectId: 'chatup-1ec88',
+    authDomain: 'chatup-1ec88.firebaseapp.com',
+    storageBucket: 'chatup-1ec88.firebasestorage.app',
   );
 }
